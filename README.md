@@ -1,0 +1,2 @@
+# etconfs
+Enemy Territory Configs
